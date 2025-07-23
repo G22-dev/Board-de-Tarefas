@@ -1,0 +1,74 @@
+jul. 21, 2025 11:43:41 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migration/db.changelog-202507202239.sql
+jul. 21, 2025 11:43:41 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migration/db.changelog-202507212320.sql
+jul. 21, 2025 11:43:41 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migration/db.changelog-202507212325.sql
+jul. 21, 2025 11:43:41 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migration/db.changelog-202507212330.sql
+jul. 21, 2025 11:43:41 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migration/db.changelog-202507212335.sql
+jul. 21, 2025 11:43:41 PM liquibase.changelog
+INFORMAÇÕES: Creating database history table with name: mysql_board.DATABASECHANGELOG
+jul. 21, 2025 11:43:41 PM liquibase.changelog
+INFORMAÇÕES: Reading from mysql_board.DATABASECHANGELOG
+jul. 21, 2025 11:43:41 PM liquibase.lockservice
+INFORMAÇÕES: Successfully acquired change log lock
+jul. 21, 2025 11:43:41 PM liquibase.command
+INFORMAÇÕES: Using deploymentId: 3152221755
+jul. 21, 2025 11:43:41 PM liquibase.changelog
+INFORMAÇÕES: Reading from mysql_board.DATABASECHANGELOG
+Running Changeset: db/changelog/migration/db.changelog-202507202239.sql::202507202239::guilherme
+jul. 21, 2025 11:43:41 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+jul. 21, 2025 11:43:41 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migration/db.changelog-202507202239.sql::202507202239::guilherme ran successfully in 69ms
+Running Changeset: db/changelog/migration/db.changelog-202507212320.sql::202507212320::guilherme
+jul. 21, 2025 11:43:41 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+jul. 21, 2025 11:43:41 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migration/db.changelog-202507212320.sql::202507212320::guilherme ran successfully in 74ms
+Running Changeset: db/changelog/migration/db.changelog-202507212325.sql::202507212325::guilherme
+jul. 21, 2025 11:43:42 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+jul. 21, 2025 11:43:42 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migration/db.changelog-202507212325.sql::202507212325::guilherme ran successfully in 74ms
+Running Changeset: db/changelog/migration/db.changelog-202507212330.sql::202507212330::guilherme
+jul. 21, 2025 11:43:42 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+jul. 21, 2025 11:43:42 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migration/db.changelog-202507212330.sql::202507212330::guilherme ran successfully in 79ms
+Running Changeset: db/changelog/migration/db.changelog-202507212335.sql::202507212335::guilherme
+jul. 21, 2025 11:43:42 PM liquibase.changelog
+INFORMAÇÕES: Custom SQL executed
+jul. 21, 2025 11:43:42 PM liquibase.changelog
+INFORMAÇÕES: ChangeSet db/changelog/migration/db.changelog-202507212335.sql::202507212335::guilherme ran successfully in 122ms
+
+UPDATE SUMMARY
+Run:                          5
+Previously run:               0
+Filtered out:                 0
+-------------------------------
+Total change sets:            5
+
+jul. 21, 2025 11:43:42 PM liquibase.util
+INFORMAÇÕES: UPDATE SUMMARY
+jul. 21, 2025 11:43:42 PM liquibase.util
+INFORMAÇÕES: Run:                          5
+jul. 21, 2025 11:43:42 PM liquibase.util
+INFORMAÇÕES: Previously run:               0
+jul. 21, 2025 11:43:42 PM liquibase.util
+INFORMAÇÕES: Filtered out:                 0
+jul. 21, 2025 11:43:42 PM liquibase.util
+INFORMAÇÕES: -------------------------------
+jul. 21, 2025 11:43:42 PM liquibase.util
+INFORMAÇÕES: Total change sets:            5
+jul. 21, 2025 11:43:42 PM liquibase.util
+INFORMAÇÕES: Update summary generated
+jul. 21, 2025 11:43:42 PM liquibase.command
+INFORMAÇÕES: Update command completed successfully.
+Liquibase: Update has been successful. Rows affected: 5
+jul. 21, 2025 11:43:42 PM liquibase.lockservice
+INFORMAÇÕES: Successfully released change log lock
+jul. 21, 2025 11:43:42 PM liquibase.command
+INFORMAÇÕES: Command execution complete
